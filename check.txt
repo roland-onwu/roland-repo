@@ -1,0 +1,1 @@
+checking to see if this local server is still connected to the remote server
